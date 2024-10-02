@@ -9,6 +9,12 @@ img {
   height: 100px;
 }
 
+.container {
+  display: flex;
+  justify-content: center;
+
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
